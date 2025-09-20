@@ -6,7 +6,7 @@
 🌍 Former AI Mobile App Developer at **Bank of America, Fidelity, TD Ameritrade**, and Team Lead at **U.S. Bank**  
 📈 Specialized in **Web, Mobile & Backend Development** with a focus on **AI-driven features, cloud, and geolocation systems**  
 
----
+
 
 ## 🏆 Career Highlights
 - **Spotify – Senior Software Engineer, React Native**  
