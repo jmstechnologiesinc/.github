@@ -1,39 +1,103 @@
-# TukuToi Co Ltd
 
-Welcome to the official GitHub repository of TukuToi Co Ltd! Here you will find all the necessary resources, documentation, and code related to our projects and open-source contributions.
+# 👋 Hi, I'm Joel Maria
 
-## About TukuToi Co Ltd
+💻 **Full Stack & Mobile Engineer** | JavaScript • React • React Native • Node.js • Docker • Kubernetes  
+🚀 16+ years of experience building scalable FinTech, transportation, and enterprise apps  
+🌍 Former AI Mobile App Developer at **Bank of America, Fidelity, TD Ameritrade**, and Team Lead at **U.S. Bank**  
+📈 Specialized in **Web, Mobile & Backend Development** with a focus on **AI-driven features, cloud, and geolocation systems**  
 
-TukuToi Co Ltd is a modern technology company with traditional values, specializing in PHP web development and PHP software solutions. We are passionate about creating innovative and user-friendly solutions that help businesses thrive in the digital world.
+---
 
-## Key Features
+## 🏆 Career Highlights
+- **Spotify – Senior Software Engineer, React Native**  
+  Built Spotify for Authors **for 500M+ users** and optimized Design System & GraphQL APIs for speed and accessibility.
 
-- **Web Development:** Our team of experienced developers crafts robust and scalable web applications using cutting-edge technologies. We focus on delivering high-performance, responsive, sustainable and secure websites tailored to meet the unique requirements of our clients.
+- **U.S. Bank – React Native & Full Stack Team Lead**  
+  Led **30+ engineers** redesigning iOS, Android & Web apps → **20M+ downloads**, 5⭐ ratings, #1 in **Keynova Group Q1 2024**.  
 
-- **Software Solutions:** TukuToi Co Ltd develops customized software solutions to streamline business processes, increase efficiency, and enhance productivity. Our team follows industry best practices to create tailor-made applications that solve complex challenges and drive growth.
+- **Bank of America – React Native & Backend Developer**  
+  Built **biometric login, mobile deposits, stock trading modules** → **50M+ downloads**, **46M active users**, 4.8⭐ rating.  
 
-- **Digital Transformation:** We assist organizations in embracing digital transformation to stay ahead in today's competitive landscape. Our experts analyze existing systems, recommend strategic improvements, and implement innovative technologies to optimize operations and deliver exceptional user experiences.
+- **Fidelity Investments – Senior Software Engineer**  
+  Transformed legacy Swift into cross-platform, fraud detection dashboards, and **real-time trading features**.  
 
-## Open-Source Contributions
+- **Grax.com – Full Stack Developer**  
+  Scaled SaaS to **100M+ API calls daily**, managing **petabytes of data** with Node.js + React.js → **$20M annual revenue**.  
 
-At TukuToi, we believe in the power of open-source collaboration. We actively contribute to the development community by sharing our knowledge, code, and tools. In our repositories, you will find most of our open-source projects that can be freely used, modified, and improved by the community.
+---
 
-## Getting Started
+## 💡 Why Work With Me
+✔ Tailored Approach → solutions customized to your project & budget  
+✔ Agile Workflow → milestones, transparency, regular updates  
+✔ High-Quality Development → testing, optimization, security  
+✔ Proven Track Record → enterprise apps, SaaS, AI, scalable platforms  
 
-To get started with our projects, please refer to the individual README files within each project directory. You will find detailed instructions on installation, configuration, and usage.
+---
 
-## Contributing
+## 🚀 Featured Projects
+- **U.S. Bank Voice Assistant** → Spanish NLP banking assistant → $7.06B revenue, 20M+ downloads  
+- **Ride-Hailing Platform** → Real-time fleet tracking, Kafka alerts, PostGIS geofencing  
+- **Fidelity Investments** → Mobile trading app with advanced charting & fraud detection  
+- **Bank of America** → Mobile check deposit, account management, secure payments for 57M+ users  
+- **TD Ameritrade** → Cross-platform fintech trading app (iOS, Android, Web)  
+- **Multi-Vendor Marketplace** → Firebase serverless functions for payments, analytics & real-time ops  
 
-We welcome contributions from the community to enhance our projects and make them even better. If you're interested in contributing, please follow the guidelines outlined in the CONTRIBUTING.md file of the respective project.
+---
 
-## Contact Us
+## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,kafka,php,laravel,firebase,python,django,graphql,postgres,mongodb,docker,kubernetes,redis,git,aws,gcp,redux,webpack,wordpress,androidstudio,babel,bootstrap,css,html,figma,mysql,supabase" />
+</p>
 
-If you have any questions, feedback, or inquiries, please feel free to reach out to us. You can contact us through the following channels:
+---
 
-- Website: [https://www.tukutoi.com](https://www.tukutoi.com)
-- Email: hello@tukutoi.com
-- Twitter: [@tukutoi_ltd](https://twitter.com/tukutoi_ltd)
-- Facebook: [tukutoi](https://www.facebook.com/tukutoi)
-- Mattermost: [TukuToi Chat](https://chat.tukutoi.com/signup_user_complete/?id=kp33nz9e3f893dpgamz6kz1eza&md=link&sbr=fa)
+## 📊 GitHub Stats
 
-Thank you for visiting our GitHub repository, and we hope you find our projects useful and inspiring!
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yerloveraaa&show_icons=true&theme=radical&count_private=true&hide=stars" />
+</p>
+
+---
+
+## 🏅 Achievements
+- Built **90+ reusable React Native components** with Storybook  
+- Maintained **80%+ test coverage** with Jest, Detox, E2E  
+- Architected **serverless & microservices** backends with Firebase, Node.js, and Kubernetes  
+- Integrated **Stripe payments, real-time geolocation, AI/ML**, and **secure APIs**  
+
+
+## 📦 My Open Source Library
+
+- 🔥 **[react-native-components](https://github.com/jmstechnologiesinc/react-native-components)**  
+A lightweight, modular UI kit & utility library for React Native (Android, iOS & Web). Built to accelerate development with reusable components, theming, localization, map & geolocation support, and real-world performance optimizations.
+
+### ⚙️ Key Features
+- Modular exports — import only what you need to keep bundle size minimal
+- Theming & localization utilities included 
+- Map & geolocation components: markers, tooltips, heatmaps, etc.
+- Comprehensive helper utilities (deep linking, permissions, image helpers, etc.) 
+---
+
+## 🌍 Open Source Contributions
+
+I’ve actively contributed to well-known open source projects that power millions of apps worldwide:
+
+- 🌀 **[React Native Paper](https://github.com/jmstechnologiesinc/react-native-paper)** → Bug fixes, documentation improvements & feature enhancements  
+- 🔥 **[Firebase JS SDK](https://github.com/firebase/firebase-js-sdk)** → Utilities, testing coverage, and Node.js integrations  
+- ⚡ **[React Native Mapbox Navigation](https://github.com/jmstechnologiesinc/react-native-mapbox-navigation)** → Performance improvements on core utilities  
+---
+
+
+## 📬 Connect with Me  
+
+| Platform   | Contact |
+|------------|---------|
+| 🔗 LinkedIn | [joel-maria](https://www.linkedin.com/in/joel-maria-960a7820/) |
+| ✉️ Email    | [joelmsanto@gmail.com](mailto:joelmsanto@gmail.com) |
+| 📱 WhatsApp | [+1 978 771 2261](https://wa.me/19787712261) |
+
+**🎯 Free 30-Minute Consultation Available**
+
+---
+
+
