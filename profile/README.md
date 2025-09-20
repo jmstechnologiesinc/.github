@@ -54,9 +54,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jmstechnologiesinc&show_icons=true&theme=radical&count_private=true&hide=stars" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=jmstechnologiesinc&repo=nombre-del-repo&theme=radical" />
 </p>
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jmstechnologiesinc&show_icons=true&theme=radical&count_private=true" />
+</p>
 ---
 
 ## 🏅 Achievements
