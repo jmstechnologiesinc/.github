@@ -24,7 +24,7 @@
 - **Grax.com – Full Stack Developer**  
   Scaled SaaS to **100M+ API calls daily**, managing **petabytes of data** with Node.js + React.js → **$20M annual revenue**.  
 
----
+
 
 ## 💡 Why Work With Me
 ✔ Tailored Approach → solutions customized to your project & budget  
@@ -32,7 +32,7 @@
 ✔ High-Quality Development → testing, optimization, security  
 ✔ Proven Track Record → enterprise apps, SaaS, AI, scalable platforms  
 
----
+
 
 ## 🚀 Featured Projects
 - **U.S. Bank Voice Assistant** → Spanish NLP banking assistant → $7.06B revenue, 20M+ downloads  
@@ -42,7 +42,7 @@
 - **TD Ameritrade** → Cross-platform fintech trading app (iOS, Android, Web)  
 - **Multi-Vendor Marketplace** → Firebase serverless functions for payments, analytics & real-time ops  
 
----
+
 
 ## 🛠️ Tech Stack
 <p>
@@ -68,7 +68,7 @@ A lightweight, modular UI kit & utility library for React Native (Android, iOS &
 - Theming & localization utilities included 
 - Map & geolocation components: markers, tooltips, heatmaps, etc.
 - Comprehensive helper utilities (deep linking, permissions, image helpers, etc.) 
----
+
 
 ## 🌍 Open Source Contributions
 
@@ -77,7 +77,7 @@ I’ve actively contributed to well-known open source projects that power millio
 - 🌀 **[React Native Paper](https://github.com/jmstechnologiesinc/react-native-paper)** → Bug fixes, documentation improvements & feature enhancements  
 - 🔥 **[Firebase JS SDK](https://github.com/firebase/firebase-js-sdk)** → Utilities, testing coverage, and Node.js integrations  
 - ⚡ **[React Native Mapbox Navigation](https://github.com/jmstechnologiesinc/react-native-mapbox-navigation)** → Performance improvements on core utilities  
----
+
 
 
 ## 📬 Connect with Me  
@@ -90,6 +90,6 @@ I’ve actively contributed to well-known open source projects that power millio
 
 **🎯 Free 30-Minute Consultation Available**
 
----
+
 
 
