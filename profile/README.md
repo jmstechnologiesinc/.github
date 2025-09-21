@@ -60,7 +60,7 @@
 
 ## 📦 My Open Source Library
 
-- 🔥 **[react-native-components](https://github.com/jmstechnologiesinc/react-native-components)**  
+**[React Native Components](https://github.com/jmstechnologiesinc/react-native-components)**  
 A lightweight, modular UI kit & utility library for React Native (Android, iOS & Web). Built to accelerate development with reusable components, theming, localization, map & geolocation support, and real-world performance optimizations.
 
 ### ⚙️ Key Features
