@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jmstechnologiesinc&show_icons=true&theme=radical&count_private=true&include_orgs=true" />
+</p>
 # 👋 Hi, I'm Joel Maria
 
 💻 **Full Stack & Mobile Engineer** | JavaScript • React • React Native • Node.js • Docker • Kubernetes  
